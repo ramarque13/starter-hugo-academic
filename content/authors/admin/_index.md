@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Risk, Insurance & Data Decision
+role: Professor of Risk, Insurance & Learning Data Decision
 
 # Organizations/Affiliations to show in About widget
 organizations:
